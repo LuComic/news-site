@@ -1,0 +1,7 @@
+{
+  "extraPaths": [
+    "extracting-news",
+    "finding-sources"
+  ],
+  "typeCheckingMode": "basic"
+}

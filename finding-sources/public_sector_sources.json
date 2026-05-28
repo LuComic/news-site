@@ -1,0 +1,1311 @@
+{
+  "generated_at": "2026-05-26T13:03:03.295262+00:00",
+  "script_version": "0.2",
+  "country": "Estonia",
+  "summary": {
+    "organizations_discovered": 26,
+    "domains_discovered": 12,
+    "article_news_routes_discovered": 35,
+    "high_quality_article_news_routes": 35
+  },
+  "sources": [
+    {
+      "organization": {
+        "name": "Vabariigi Valitsus",
+        "registry_code": null,
+        "type": "government",
+        "parent": null,
+        "discovered_from": ["curated_public_sector"]
+      },
+      "confidence": 0.7,
+      "website": "https://www.valitsus.ee",
+      "domain": "valitsus.ee",
+      "articles_news_routes": [
+        {
+          "url": "https://www.valitsus.ee/otsing?filters%5Btype%5D=Uudis&filters%5Bkeyword%5D=Peaministri%20k%C3%B5ned%2CKristen%20Michal&sort=created&page=1",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 90,
+          "title": "Kõned",
+          "latest_items": [
+            {
+              "title": "Peaministrikandidaadi kõne Riigikogu ees",
+              "url": "https://www.valitsus.ee/uudised/peaministrikandidaadi-kristen-michali-kone-valitsuse-moodustamise-kohta",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "https://www.valitsus.ee/otsing?filters%5Btype%5D=Uudis&sort=created&page=1",
+          "route_type": "press_releases",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 90,
+          "title": "Pressiteated",
+          "latest_items": [
+            {
+              "title": "Peaministrikandidaadi kõne Riigikogu ees",
+              "url": "https://www.valitsus.ee/uudised/peaministrikandidaadi-kristen-michali-kone-valitsuse-moodustamise-kohta",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "https://www.valitsus.ee/otsing?filters%5Btype%5D=Uudis&filters%5Bkeyword%5D=Istungi%20p%C3%A4evakord&sort=created&page=1",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 90,
+          "title": "Istungi päevakorrad",
+          "latest_items": [
+            {
+              "title": "Peaministrikandidaadi kõne Riigikogu ees",
+              "url": "https://www.valitsus.ee/uudised/peaministrikandidaadi-kristen-michali-kone-valitsuse-moodustamise-kohta",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "https://www.valitsus.ee/otsing?filters%5Btype%5D=Uudis&filters%5Bkeyword%5D=Kabinetin%C3%B5upidamise%20p%C3%A4evakord&sort=created&page=1",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 90,
+          "title": "Kabinetinõupidamise päevakorrad",
+          "latest_items": [
+            {
+              "title": "Peaministrikandidaadi kõne Riigikogu ees",
+              "url": "https://www.valitsus.ee/uudised/peaministrikandidaadi-kristen-michali-kone-valitsuse-moodustamise-kohta",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "https://www.valitsus.ee/otsing?filters%5Btype%5D=Uudis&filters%5Bkeyword%5D=otse%20valitsuse%20istungilt&sort=created&page=1",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 90,
+          "title": "Teated otse istungilt",
+          "latest_items": [
+            {
+              "title": "Peaministrikandidaadi kõne Riigikogu ees",
+              "url": "https://www.valitsus.ee/uudised/peaministrikandidaadi-kristen-michali-kone-valitsuse-moodustamise-kohta",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "https://www.valitsus.ee/otsing?filters%5Btype%5D=Uudis&filters%5Bkeyword%5D=Pressikonverents&sort=created&page=1",
+          "route_type": "press_releases",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 90,
+          "title": "Pressikonverentsi ülekanded ja stenogrammid",
+          "latest_items": [
+            {
+              "title": "Peaministrikandidaadi kõne Riigikogu ees",
+              "url": "https://www.valitsus.ee/uudised/peaministrikandidaadi-kristen-michali-kone-valitsuse-moodustamise-kohta",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "https://www.valitsus.ee/otsing?filters%5Btype%5D=Uudis&filters%5Bkeyword%5D=",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 90,
+          "title": "Kõik uudised",
+          "latest_items": [
+            {
+              "title": "Peaministrikandidaadi kõne Riigikogu ees",
+              "url": "https://www.valitsus.ee/uudised/peaministrikandidaadi-kristen-michali-kone-valitsuse-moodustamise-kohta",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "https://www.valitsus.ee/otsing?filters[type]=Uudis&sort=created&page=1",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 90,
+          "title": "Kõik uudised",
+          "latest_items": [
+            {
+              "title": "Peaministrikandidaadi kõne Riigikogu ees",
+              "url": "https://www.valitsus.ee/uudised/peaministrikandidaadi-kristen-michali-kone-valitsuse-moodustamise-kohta",
+              "published_at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization": {
+        "name": "Rahandusministeerium",
+        "registry_code": null,
+        "type": "ministry",
+        "parent": null,
+        "discovered_from": ["curated_public_sector"]
+      },
+      "confidence": 0.5,
+      "website": "https://www.fin.ee",
+      "domain": "fin.ee",
+      "articles_news_routes": [
+        {
+          "url": "https://www.fin.ee/riigihanked-riigiabi-osalused/riigihanked/uudised",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 100,
+          "title": "Uudised",
+          "latest_items": [
+            {
+              "title": "Riigihangete maht ületas 2025. aastal kaheksa miljardi euro piiri",
+              "url": "https://fin.ee/uudised/riigihangete-maht-uletas-2025-aastal-kaheksa-miljardi-euro-piiri",
+              "published_at": ""
+            },
+            {
+              "title": "Vaidlustuste arv riigihangetes kasvas 2025. aastal 16%",
+              "url": "https://www.fin.ee/uudised/vaidlustuste-arv-riigihangetes-kasvas-2025-aastal-16",
+              "published_at": ""
+            },
+            {
+              "title": "Uued reeglid aitavad aega ja raha kokku hoida nii hankijatel kui ettevõtjatel",
+              "url": "https://fin.ee/uudised/uued-reeglid-aitavad-aega-ja-raha-kokku-hoida-nii-hankijatel-kui-ettevotjatel",
+              "published_at": ""
+            },
+            {
+              "title": "Odavaim hind ei ole enam ainus eesmärk - riigihangete suunad on muutumas",
+              "url": "https://fin.ee/uudised/odavaim-hind-ei-ole-enam-ainus-eesmark-riigihangete-suunad-muutumas",
+              "published_at": ""
+            },
+            {
+              "title": "Eelmise aasta riigihangete maht on üle 5,8 miljardi euro",
+              "url": "https://fin.ee/uudised/eelmise-aasta-riigihangete-maht-ule-58-miljardi-euro",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "https://www.fin.ee/uudised",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 100,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "Riigihangete maht ületas 2025. aastal kaheksa miljardi euro piiri",
+              "url": "https://fin.ee/uudised/riigihangete-maht-uletas-2025-aastal-kaheksa-miljardi-euro-piiri",
+              "published_at": ""
+            },
+            {
+              "title": "Vaidlustuste arv riigihangetes kasvas 2025. aastal 16%",
+              "url": "https://www.fin.ee/uudised/vaidlustuste-arv-riigihangetes-kasvas-2025-aastal-16",
+              "published_at": ""
+            },
+            {
+              "title": "Uued reeglid aitavad aega ja raha kokku hoida nii hankijatel kui ettevõtjatel",
+              "url": "https://fin.ee/uudised/uued-reeglid-aitavad-aega-ja-raha-kokku-hoida-nii-hankijatel-kui-ettevotjatel",
+              "published_at": ""
+            },
+            {
+              "title": "Odavaim hind ei ole enam ainus eesmärk - riigihangete suunad on muutumas",
+              "url": "https://fin.ee/uudised/odavaim-hind-ei-ole-enam-ainus-eesmark-riigihangete-suunad-muutumas",
+              "published_at": ""
+            },
+            {
+              "title": "Eelmise aasta riigihangete maht on üle 5,8 miljardi euro",
+              "url": "https://fin.ee/uudised/eelmise-aasta-riigihangete-maht-ule-58-miljardi-euro",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "https://www.fin.ee/pressiteated",
+          "route_type": "press_releases",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 100,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "Tänasest saab osta riigivõlakirju",
+              "url": "https://www.fin.ee/uudised/tanasest-saab-osta-riigivolakirju",
+              "published_at": ""
+            },
+            {
+              "title": "Homme lõppeb riigi võlakirjade märkimine",
+              "url": "https://www.fin.ee/uudised/homme-loppeb-riigi-volakirjade-markimine",
+              "published_at": ""
+            },
+            {
+              "title": "Eesti riigi võlakirjade pakkumine märgiti neljakordselt üle",
+              "url": "https://www.fin.ee/uudised/eesti-riigi-volakirjade-pakkumine-margiti-neljakordselt-ule",
+              "published_at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization": {
+        "name": "Justiits- ja Digiministeerium",
+        "registry_code": null,
+        "type": "ministry",
+        "parent": null,
+        "discovered_from": ["curated_public_sector"]
+      },
+      "confidence": 0.5,
+      "website": "https://www.justdigi.ee",
+      "domain": "justdigi.ee",
+      "articles_news_routes": [
+        {
+          "url": "https://www.justdigi.ee/otsing?search_term=&f%5B0%5D=type%3Anews&f%5B1%5D=type%3Anews",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 100,
+          "title": "Uudised",
+          "latest_items": [
+            {
+              "title": "Pane tähele: Riigi Teataja kasutamine on 1. juunist mugavam",
+              "url": "https://www.justdigi.ee/uudised/pane-tahele-riigi-teataja-kasutamine-1-juunist-mugavam",
+              "published_at": ""
+            },
+            {
+              "title": "Kuidas edeneb lähisuhtevägivalla ennetus?",
+              "url": "https://www.justdigi.ee/uudised/kuidas-edeneb-lahisuhtevagivalla-ennetus",
+              "published_at": ""
+            },
+            {
+              "title": "Pakosta Moldovas: Eesti tervitab eritribunali resolutsiooni vastuvõtmist",
+              "url": "https://www.justdigi.ee/uudised/pakosta-moldovas-eesti-tervitab-eritribunali-resolutsiooni-vastuvotmist",
+              "published_at": ""
+            },
+            {
+              "title": "Eesti raamatukoguhoidjad saavad alates homsest väljaõpet tehisaru koolituste läbiviimiseks",
+              "url": "https://www.justdigi.ee/uudised/eesti-raamatukoguhoidjad-saavad-alates-homsest-valjaopet-tehisaru-koolituste-labiviimiseks",
+              "published_at": ""
+            },
+            {
+              "title": "Justiits- ja digiministeerium suunab mitu miljonit eurot tehisaru kasutuselevõtuks riigiasutustes ja omavalitsustes",
+              "url": "https://www.justdigi.ee/uudised/justiits-ja-digiministeerium-suunab-mitu-miljonit-eurot-tehisaru-kasutuselevotuks",
+              "published_at": ""
+            },
+            {
+              "title": "Valitsus kinnitas Eesti digiühiskonna arengukava aastani 2035",
+              "url": "https://www.justdigi.ee/uudised/valitsus-kinnitas-eesti-digiuhiskonna-arengukava-aastani-2035",
+              "published_at": ""
+            },
+            {
+              "title": "Algas kandidaatide esitamine Vabaduse Tammepärja aumärgile",
+              "url": "https://www.justdigi.ee/uudised/algas-kandidaatide-esitamine-vabaduse-tammeparja-aumargile-0",
+              "published_at": ""
+            },
+            {
+              "title": "Esimeses kvartalis lobistati enim Kliimaministeeriumi",
+              "url": "https://www.justdigi.ee/uudised/esimeses-kvartalis-lobistati-enim-kliimaministeeriumi-1",
+              "published_at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization": {
+        "name": "Kliimaministeerium",
+        "registry_code": null,
+        "type": "ministry",
+        "parent": null,
+        "discovered_from": ["curated_public_sector"]
+      },
+      "confidence": 0.7,
+      "website": "https://www.kliimaministeerium.ee",
+      "domain": "kliimaministeerium.ee",
+      "articles_news_routes": [
+        {
+          "url": "https://www.kliimaministeerium.ee/rss.xml",
+          "route_type": "rss",
+          "access_method": "rss",
+          "http_status": 200,
+          "quality_score": 100,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "Jõgede taastamisest räägitakse üle Euroopa! ",
+              "url": "https://kliimaministeerium.ee/uudised/jogede-taastamisest-raagitakse-ule-euroopa",
+              "published_at": "Mon, 25 May 2026 22:28:24 +0300"
+            },
+            {
+              "title": "Elektriautode laadijate paigaldamise toetus laieneb Tallinna lähivaldadesse ",
+              "url": "https://kliimaministeerium.ee/uudised/elektriautode-laadijate-paigaldamise-toetus-laieneb-tallinna-lahivaldadesse",
+              "published_at": "Mon, 25 May 2026 13:14:06 +0300"
+            },
+            {
+              "title": "Looduse taastamine on investeering ühisesse heaolusse",
+              "url": "https://kliimaministeerium.ee/uudised/looduse-taastamine-investeering-uhisesse-heaolusse",
+              "published_at": "Thu, 21 May 2026 13:03:29 +0300"
+            },
+            {
+              "title": "Valitsus kiitis kliimakindla majanduse seaduse heaks",
+              "url": "https://kliimaministeerium.ee/uudised/valitsus-kiitis-kliimakindla-majanduse-seaduse-heaks",
+              "published_at": "Thu, 21 May 2026 08:41:43 +0300"
+            },
+            {
+              "title": "Selgusid tehaselise renoveerimise arhitektuurivõistluse parimad tööd",
+              "url": "https://kliimaministeerium.ee/uudised/selgusid-tehaselise-renoveerimise-arhitektuurivoistluse-parimad-tood",
+              "published_at": "Wed, 20 May 2026 15:35:48 +0300"
+            },
+            {
+              "title": "Balti transpordiministrid arutasid Tallinnas Rail Balticu ehitust ja isejuhtivate sõidukite arendamist",
+              "url": "https://kliimaministeerium.ee/uudised/balti-transpordiministrid-arutasid-tallinnas-rail-balticu-ehitust-ja-isejuhtivate-soidukite",
+              "published_at": "Tue, 19 May 2026 21:56:49 +0300"
+            },
+            {
+              "title": "Riik ja ettevõtjad allkirjastasid kokkuleppe puhta tööstuse arendamiseks",
+              "url": "https://kliimaministeerium.ee/uudised/riik-ja-ettevotjad-allkirjastasid-kokkuleppe-puhta-toostuse-arendamiseks",
+              "published_at": "Tue, 19 May 2026 11:37:55 +0300"
+            },
+            {
+              "title": "Kliimaministeerium otsib nutipoide võrgustiku piloteerijat",
+              "url": "https://kliimaministeerium.ee/uudised/kliimaministeerium-otsib-nutipoide-vorgustiku-piloteerijat",
+              "published_at": "Mon, 18 May 2026 13:56:46 +0300"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization": {
+        "name": "Politsei- ja Piirivalveamet",
+        "registry_code": null,
+        "type": "agency",
+        "parent": null,
+        "discovered_from": ["curated_public_sector"]
+      },
+      "confidence": 0.7,
+      "website": "https://www.politsei.ee",
+      "domain": "politsei.ee",
+      "articles_news_routes": [
+        {
+          "url": "https://www.politsei.ee/et/uudised",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 100,
+          "title": "Rohkem uudiseid",
+          "latest_items": [
+            {
+              "title": "Liiklusinfo 25.05.2026",
+              "url": "https://www.politsei.ee/et/uudised/liiklusinfo-25-05-2026-13531",
+              "published_at": ""
+            },
+            {
+              "title": "Politseis registreeritud sÃ¼ndmused",
+              "url": "https://www.politsei.ee/et/uudised/politseis-registreeritud-suendmused-88ea52-13532",
+              "published_at": ""
+            },
+            {
+              "title": "ÃÃ¶pÃ¤evainfo",
+              "url": "https://www.politsei.ee/et/uudised/oeoepaeevainfo",
+              "published_at": ""
+            },
+            {
+              "title": "Liiklusinfo 24.05.2026",
+              "url": "https://www.politsei.ee/et/uudised/liiklusinfo-24-05-2026-13530",
+              "published_at": ""
+            },
+            {
+              "title": "Liiklusinfo 23.05.2026",
+              "url": "https://www.politsei.ee/et/uudised/liiklusinfo-23-05-2026-13529",
+              "published_at": ""
+            },
+            {
+              "title": "Ukraina politseijuhid lÃ¤bisid Eestis koolituse",
+              "url": "https://www.politsei.ee/et/uudised/ukraina-politseijuhid-laebisid-eestis-koolituse-13533",
+              "published_at": ""
+            },
+            {
+              "title": "Pressiteated",
+              "url": "https://www.politsei.ee/et/uudised/pressiteated",
+              "published_at": ""
+            },
+            {
+              "title": "Liiklusinfo 22.05.2026",
+              "url": "https://www.politsei.ee/et/uudised/liiklusinfo-22-05-2026-13528",
+              "published_at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization": {
+        "name": "Päästeamet",
+        "registry_code": null,
+        "type": "agency",
+        "parent": null,
+        "discovered_from": ["curated_public_sector"]
+      },
+      "confidence": 0.5,
+      "website": "https://www.rescue.ee",
+      "domain": "rescue.ee",
+      "articles_news_routes": [
+        {
+          "url": "https://www.rescue.ee/et/uudised",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 100,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "ÃÃ¶pÃ¤eva operatiivinfo",
+              "url": "https://www.rescue.ee/et/uudised/oeoepaeeva-operatiivinfo-efe062-3492",
+              "published_at": ""
+            },
+            {
+              "title": "ÃÃ¶pÃ¤eva operatiivinfo",
+              "url": "https://www.rescue.ee/et/uudised/oeoepaeeva-operatiivinfo-d30d4b-3491",
+              "published_at": ""
+            },
+            {
+              "title": "ÃÃ¶pÃ¤eva operatiivinfo",
+              "url": "https://www.rescue.ee/et/uudised/oeoepaeeva-operatiivinfo-cf500e-3490",
+              "published_at": ""
+            },
+            {
+              "title": "ÃÃ¶pÃ¤eva operatiivinfo",
+              "url": "https://www.rescue.ee/et/uudised/oeoepaeeva-operatiivinfo-374a39-3489",
+              "published_at": ""
+            },
+            {
+              "title": "ÃÃ¶pÃ¤eva operatiivinfo",
+              "url": "https://www.rescue.ee/et/uudised/oeoepaeeva-operatiivinfo-bd9b11-3488",
+              "published_at": ""
+            },
+            {
+              "title": "Narva linnas on vingugaasioht mÃ¶Ã¶das, kortermajade suletud gaasikraanid soovitame avada Ãµhtul kell 18",
+              "url": "https://www.rescue.ee/et/uudised/narva-linnas-on-vingugaasioht-moeoedas-kortermajade-suletud-gaasikraanid-soovitame-avada-ohtul-kell-18-3487",
+              "published_at": ""
+            },
+            {
+              "title": "Pressiteated",
+              "url": "https://www.rescue.ee/et/uudised/pressiteated",
+              "published_at": ""
+            },
+            {
+              "title": "Vingugaasi oht Narvas pÃ¼sib",
+              "url": "https://www.rescue.ee/et/uudised/vingugaasi-oht-narvas-puesib-3486",
+              "published_at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization": {
+        "name": "Transpordiamet",
+        "registry_code": null,
+        "type": "agency",
+        "parent": null,
+        "discovered_from": ["curated_public_sector"]
+      },
+      "confidence": 0.7,
+      "website": "https://www.transpordiamet.ee",
+      "domain": "transpordiamet.ee",
+      "articles_news_routes": [
+        {
+          "url": "https://transpordiamet.ee/otsing?type=Uudis",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 90,
+          "title": "Uudised",
+          "latest_items": [
+            {
+              "title": "EL-i sanktsioonimeetmed",
+              "url": "https://transpordiamet.ee/uudised/el-i-sanktsioonimeetmed-seoses-venemaa-tegevusega",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "https://www.transpordiamet.ee/et/uudised",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 90,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "EL-i sanktsioonimeetmed",
+              "url": "https://www.transpordiamet.ee/uudised/el-i-sanktsioonimeetmed-seoses-venemaa-tegevusega",
+              "published_at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization": {
+        "name": "Statistikaamet",
+        "registry_code": null,
+        "type": "agency",
+        "parent": null,
+        "discovered_from": ["curated_public_sector"]
+      },
+      "confidence": 0.5,
+      "website": "https://www.stat.ee",
+      "domain": "stat.ee",
+      "articles_news_routes": [
+        {
+          "url": "https://www.stat.ee/rss",
+          "route_type": "rss",
+          "access_method": "rss",
+          "http_status": 200,
+          "quality_score": 100,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "Oodatav eluiga on 79,8 aastat, millest tervena elatakse 57,3 aastat",
+              "url": "https://stat.ee/et/uudised/oodatav-eluiga-798-aastat-millest-tervena-elatakse-573-aastat",
+              "published_at": "Tue, 26 May 2026 05:00:00 +0000"
+            },
+            {
+              "title": "Oodatav eluiga on 79,8 aastat, millest tervena elatakse 57,3 aastat",
+              "url": "https://stat.ee/et/uudised/oodatav-eluiga-798-aastat-millest-tervena-elatakse-573-aastat",
+              "published_at": "Tue, 26 May 2026 05:00:00 +0000"
+            },
+            {
+              "title": "Kasvatatud kala müügikogus suurenes 2025. aastal veerandi võrra",
+              "url": "https://stat.ee/et/uudised/kasvatatud-kala-muugikogus-suurenes-2025-aastal-veerandi-vorra",
+              "published_at": "Fri, 22 May 2026 05:00:00 +0000"
+            },
+            {
+              "title": "Kasvatatud kala müügikogus suurenes 2025. aastal veerandi võrra",
+              "url": "https://stat.ee/et/uudised/kasvatatud-kala-muugikogus-suurenes-2025-aastal-veerandi-vorra",
+              "published_at": "Fri, 22 May 2026 05:00:00 +0000"
+            },
+            {
+              "title": "Kasvatatud kala müügikogus suurenes 2025. aastal veerandi võrra",
+              "url": "https://stat.ee/et/uudised/kasvatatud-kala-muugikogus-suurenes-2025-aastal-veerandi-vorra",
+              "published_at": "Fri, 22 May 2026 05:00:00 +0000"
+            },
+            {
+              "title": "Andmeteadur",
+              "url": "https://stat.ee/et/uudised/andmeteadur-3",
+              "published_at": "Fri, 15 May 2026 18:45:01 +0000"
+            },
+            {
+              "title": "Töötuse määr oli esimeses kvartalis 7,1%",
+              "url": "https://stat.ee/et/uudised/tootuse-maar-oli-esimeses-kvartalis-71",
+              "published_at": "Fri, 15 May 2026 05:00:00 +0000"
+            },
+            {
+              "title": "Märtsis kasvas nii kaupade eksport kui ka import",
+              "url": "https://stat.ee/et/uudised/martsis-kasvas-nii-kaupade-eksport-kui-ka-import",
+              "published_at": "Mon, 11 May 2026 05:00:00 +0000"
+            }
+          ]
+        },
+        {
+          "url": "https://www.stat.ee/et/uudised",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 100,
+          "title": "Uudised",
+          "latest_items": [
+            {
+              "title": "Statistikaamet avaldas värsked konjunktuuribaromeetrite andmed",
+              "url": "https://www.stat.ee/et/uudised/statistikaamet-avaldas-varsked-konjunktuuribaromeetrite-andmed",
+              "published_at": ""
+            },
+            {
+              "title": "Majutusplatvormide kaudu registreeriti mullu enim ööbimisi Tallinnas, Tartus ja Pärnus",
+              "url": "https://www.stat.ee/et/uudised/majutusplatvormide-kaudu-registreeriti-mullu-enim-oobimisi-tallinnas-tartus-ja-parnus",
+              "published_at": ""
+            },
+            {
+              "title": "Aasta puu, loom või lind – kellenimelisi on Eestis enim?",
+              "url": "https://www.stat.ee/et/uudised/aasta-puu-loom-voi-lind-kellenimelisi-eestis-enim",
+              "published_at": ""
+            },
+            {
+              "title": "Lühiajalise üürituru ööbimiste arv Eestis järjest kasvab",
+              "url": "https://www.stat.ee/et/uudised/luhiajalise-uurituru-oobimiste-arv-eestis-jarjest-kasvab",
+              "published_at": ""
+            },
+            {
+              "title": "Eesti ema arvudes: 69% naistest on emad",
+              "url": "https://www.stat.ee/et/uudised/eesti-ema-arvudes-69-naistest-emad",
+              "published_at": ""
+            },
+            {
+              "title": "Statistikaamet alustas tarbijate ja ettevõtete majandusliku kindlustunde uuringutega: iga vastus on oluline",
+              "url": "https://www.stat.ee/et/uudised/statistikaamet-alustas-tarbijate-ja-ettevotete-majandusliku-kindlustunde-uuringutega-iga-vastus-oluline",
+              "published_at": ""
+            },
+            {
+              "title": "SKP kiirhinnang: esimeses kvartalis kasvas majandus 1,3%",
+              "url": "https://www.stat.ee/et/uudised/skp-kiirhinnang-esimeses-kvartalis-kasvas-majandus-13",
+              "published_at": ""
+            },
+            {
+              "title": "Tarbijahindade harmoneeritud indeksi kiirhinnang: aprillis tõusid hinnad 0,9%",
+              "url": "https://www.stat.ee/et/uudised/tarbijahindade-harmoneeritud-indeksi-kiirhinnang-aprillis-tousid-hinnad-09",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "https://www.stat.ee/uudised",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 100,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "Statistikaamet avaldas värsked konjunktuuribaromeetrite andmed",
+              "url": "https://www.stat.ee/et/uudised/statistikaamet-avaldas-varsked-konjunktuuribaromeetrite-andmed",
+              "published_at": ""
+            },
+            {
+              "title": "Majutusplatvormide kaudu registreeriti mullu enim ööbimisi Tallinnas, Tartus ja Pärnus",
+              "url": "https://www.stat.ee/et/uudised/majutusplatvormide-kaudu-registreeriti-mullu-enim-oobimisi-tallinnas-tartus-ja-parnus",
+              "published_at": ""
+            },
+            {
+              "title": "Aasta puu, loom või lind – kellenimelisi on Eestis enim?",
+              "url": "https://www.stat.ee/et/uudised/aasta-puu-loom-voi-lind-kellenimelisi-eestis-enim",
+              "published_at": ""
+            },
+            {
+              "title": "Lühiajalise üürituru ööbimiste arv Eestis järjest kasvab",
+              "url": "https://www.stat.ee/et/uudised/luhiajalise-uurituru-oobimiste-arv-eestis-jarjest-kasvab",
+              "published_at": ""
+            },
+            {
+              "title": "Eesti ema arvudes: 69% naistest on emad",
+              "url": "https://www.stat.ee/et/uudised/eesti-ema-arvudes-69-naistest-emad",
+              "published_at": ""
+            },
+            {
+              "title": "Statistikaamet alustas tarbijate ja ettevõtete majandusliku kindlustunde uuringutega: iga vastus on oluline",
+              "url": "https://www.stat.ee/et/uudised/statistikaamet-alustas-tarbijate-ja-ettevotete-majandusliku-kindlustunde-uuringutega-iga-vastus-oluline",
+              "published_at": ""
+            },
+            {
+              "title": "SKP kiirhinnang: esimeses kvartalis kasvas majandus 1,3%",
+              "url": "https://www.stat.ee/et/uudised/skp-kiirhinnang-esimeses-kvartalis-kasvas-majandus-13",
+              "published_at": ""
+            },
+            {
+              "title": "Tarbijahindade harmoneeritud indeksi kiirhinnang: aprillis tõusid hinnad 0,9%",
+              "url": "https://www.stat.ee/et/uudised/tarbijahindade-harmoneeritud-indeksi-kiirhinnang-aprillis-tousid-hinnad-09",
+              "published_at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization": {
+        "name": "Keskkonnaamet",
+        "registry_code": null,
+        "type": "agency",
+        "parent": null,
+        "discovered_from": ["curated_public_sector"]
+      },
+      "confidence": 0.7,
+      "website": "https://www.keskkonnaamet.ee",
+      "domain": "keskkonnaamet.ee",
+      "articles_news_routes": [
+        {
+          "url": "https://www.keskkonnaamet.ee/rss",
+          "route_type": "rss",
+          "access_method": "rss",
+          "http_status": 200,
+          "quality_score": 100,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "Algas karuputke võõrliikide tõrje",
+              "url": "https://keskkonnaamet.ee/uudised/algas-karuputke-voorliikide-torje",
+              "published_at": "Mon, 25 May 2026 09:00:00 +0300"
+            },
+            {
+              "title": "Keskkonnaamet kutsub avastama Saaremaa ja Pärnumaa puisniitude elurikkust ",
+              "url": "https://keskkonnaamet.ee/uudised/keskkonnaamet-kutsub-avastama-saaremaa-ja-parnumaa-puisniitude-elurikkust",
+              "published_at": "Wed, 20 May 2026 15:04:21 +0300"
+            },
+            {
+              "title": "Keskkonnaamet kutsub konverentsile \"Rahvuspargid, kogukonnad ja koostöö\"",
+              "url": "https://keskkonnaamet.ee/uudised/keskkonnaamet-kutsub-konverentsile-rahvuspargid-kogukonnad-ja-koostoo",
+              "published_at": "Thu, 14 May 2026 10:05:36 +0300"
+            },
+            {
+              "title": "Lääne-Virumaal uut masuudireostust leitud ei ole",
+              "url": "https://keskkonnaamet.ee/uudised/laane-virumaal-uut-masuudireostust-leitud-ei-ole",
+              "published_at": "Mon, 11 May 2026 13:46:51 +0300"
+            },
+            {
+              "title": "Pesitsusrahu algus on möödunud rahulikult",
+              "url": "https://keskkonnaamet.ee/uudised/pesitsusrahu-algus-moodunud-rahulikult",
+              "published_at": "Wed, 06 May 2026 08:47:41 +0300"
+            },
+            {
+              "title": "Kutsume masuudikoristuse talgutele Karepale ja Lobile",
+              "url": "https://keskkonnaamet.ee/uudised/kutsume-masuudikoristuse-talgutele-karepale-ja-lobile",
+              "published_at": "Thu, 30 Apr 2026 10:36:09 +0300"
+            },
+            {
+              "title": "Pärandniitude hooldamiseks on avatud looduskaitseliste tööde taotluse voor",
+              "url": "https://keskkonnaamet.ee/uudised/parandniitude-hooldamiseks-avatud-looduskaitseliste-toode-taotluse-voor-0",
+              "published_at": "Thu, 30 Apr 2026 09:16:45 +0300"
+            },
+            {
+              "title": "Keskkonnaamet kinnitas võõrnälkjate ohjamiskava",
+              "url": "https://keskkonnaamet.ee/uudised/keskkonnaamet-kinnitas-voornalkjate-ohjamiskava",
+              "published_at": "Wed, 29 Apr 2026 08:36:53 +0300"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization": {
+        "name": "Konkurentsiamet",
+        "registry_code": null,
+        "type": "agency",
+        "parent": null,
+        "discovered_from": ["curated_public_sector"]
+      },
+      "confidence": 0.7,
+      "website": "https://www.konkurentsiamet.ee",
+      "domain": "konkurentsiamet.ee",
+      "articles_news_routes": [
+        {
+          "url": "https://www.konkurentsiamet.ee/otsing?f%5B0%5D=type%3Anews",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 100,
+          "title": "Uudised",
+          "latest_items": [
+            {
+              "title": "Euroopa Komisjon alustas avalikku konsultatsiooni uute EL-i ühinemissuuniste kohta",
+              "url": "https://www.konkurentsiamet.ee/uudised/euroopa-komisjon-alustas-avalikku-konsultatsiooni-uute-el-i-uhinemissuuniste-kohta",
+              "published_at": ""
+            },
+            {
+              "title": "2026. aasta veebruari energiaturgude ülevaade",
+              "url": "https://www.konkurentsiamet.ee/uudised/2026-aasta-veebruari-energiaturgude-ulevaade",
+              "published_at": ""
+            },
+            {
+              "title": "Konkurentsiameti 2025. aasta ülevaade on valmis",
+              "url": "https://www.konkurentsiamet.ee/uudised/konkurentsiameti-2025-aasta-ulevaade-valmis",
+              "published_at": ""
+            },
+            {
+              "title": "2026. aasta jaanuari energiaturgude ülevaade",
+              "url": "https://www.konkurentsiamet.ee/uudised/2026-aasta-jaanuari-energiaturgude-ulevaade",
+              "published_at": ""
+            },
+            {
+              "title": "2025. aasta detsembri energiaturgude ülevaade",
+              "url": "https://www.konkurentsiamet.ee/uudised/2025-aasta-detsembri-energiaturgude-ulevaade",
+              "published_at": ""
+            },
+            {
+              "title": "2025. aasta novembri energiaturgude ülevaade",
+              "url": "https://www.konkurentsiamet.ee/uudised/2025-aasta-novembri-energiaturgude-ulevaade",
+              "published_at": ""
+            },
+            {
+              "title": "Euroopa Komisjon alustas avaliku konsultatsiooniga ebaausate kaubandustavade ELi eeskirjade hindamiseks",
+              "url": "https://www.konkurentsiamet.ee/uudised/euroopa-komisjon-alustas-avaliku-konsultatsiooniga-ebaausate-kaubandustavade-eli-eeskirjade",
+              "published_at": ""
+            },
+            {
+              "title": "2025. aasta oktoobri energiaturgude ülevaate",
+              "url": "https://www.konkurentsiamet.ee/uudised/2025-aasta-oktoobri-energiaturgude-ulevaate",
+              "published_at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization": {
+        "name": "RIHA system",
+        "registry_code": null,
+        "type": "riha_system",
+        "parent": "RIHA system",
+        "discovered_from": ["riha"]
+      },
+      "confidence": 0.5,
+      "website": "http://www.mnt.ee",
+      "domain": "mnt.ee",
+      "articles_news_routes": [
+        {
+          "url": "http://www.mnt.ee/uudised",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 80,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "EL-i sanktsioonimeetmed",
+              "url": "http://www.mnt.ee/uudised/el-i-sanktsioonimeetmed-seoses-venemaa-tegevusega",
+              "published_at": ""
+            },
+            {
+              "title": "Transpordiamet koostöös Kaitseliiduga varistab Virtsu tuletorni",
+              "url": "http://www.mnt.ee/uudised/transpordiamet-koostoos-kaitseliiduga-varistab-virtsu-tuletorni",
+              "published_at": ""
+            },
+            {
+              "title": "Eurosec OÜ testib Tallinna–Tartu maanteel uut kiiruskaamerat",
+              "url": "http://www.mnt.ee/uudised/eurosec-ou-testib-tallinna-tartu-maanteel-uut-kiiruskaamerat",
+              "published_at": ""
+            },
+            {
+              "title": "Tallinna teenindusbüroos algavad kaks kuud kestvad ehitustööd",
+              "url": "http://www.mnt.ee/uudised/tallinna-teenindusburoos-algavad-kaks-kuud-kestvad-ehitustood",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "http://www.mnt.ee/et/uudised",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 80,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "EL-i sanktsioonimeetmed",
+              "url": "http://www.mnt.ee/uudised/el-i-sanktsioonimeetmed-seoses-venemaa-tegevusega",
+              "published_at": ""
+            },
+            {
+              "title": "Transpordiamet koostöös Kaitseliiduga varistab Virtsu tuletorni",
+              "url": "http://www.mnt.ee/uudised/transpordiamet-koostoos-kaitseliiduga-varistab-virtsu-tuletorni",
+              "published_at": ""
+            },
+            {
+              "title": "Eurosec OÜ testib Tallinna–Tartu maanteel uut kiiruskaamerat",
+              "url": "http://www.mnt.ee/uudised/eurosec-ou-testib-tallinna-tartu-maanteel-uut-kiiruskaamerat",
+              "published_at": ""
+            },
+            {
+              "title": "Tallinna teenindusbüroos algavad kaks kuud kestvad ehitustööd",
+              "url": "http://www.mnt.ee/uudised/tallinna-teenindusburoos-algavad-kaks-kuud-kestvad-ehitustood",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "http://www.mnt.ee/uudised-ja-pressiinfo/uudised",
+          "route_type": "press_releases",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 80,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "EL-i sanktsioonimeetmed",
+              "url": "http://www.mnt.ee/uudised/el-i-sanktsioonimeetmed-seoses-venemaa-tegevusega",
+              "published_at": ""
+            },
+            {
+              "title": "Transpordiamet koostöös Kaitseliiduga varistab Virtsu tuletorni",
+              "url": "http://www.mnt.ee/uudised/transpordiamet-koostoos-kaitseliiduga-varistab-virtsu-tuletorni",
+              "published_at": ""
+            },
+            {
+              "title": "Eurosec OÜ testib Tallinna–Tartu maanteel uut kiiruskaamerat",
+              "url": "http://www.mnt.ee/uudised/eurosec-ou-testib-tallinna-tartu-maanteel-uut-kiiruskaamerat",
+              "published_at": ""
+            },
+            {
+              "title": "Tallinna teenindusbüroos algavad kaks kuud kestvad ehitustööd",
+              "url": "http://www.mnt.ee/uudised/tallinna-teenindusburoos-algavad-kaks-kuud-kestvad-ehitustood",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "http://www.mnt.ee/uudised-ja-pressiinfo/pressiteated",
+          "route_type": "press_releases",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 80,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "EL-i sanktsioonimeetmed",
+              "url": "http://www.mnt.ee/uudised/el-i-sanktsioonimeetmed-seoses-venemaa-tegevusega",
+              "published_at": ""
+            },
+            {
+              "title": "Transpordiamet koostöös Kaitseliiduga varistab Virtsu tuletorni",
+              "url": "http://www.mnt.ee/uudised/transpordiamet-koostoos-kaitseliiduga-varistab-virtsu-tuletorni",
+              "published_at": ""
+            },
+            {
+              "title": "Eurosec OÜ testib Tallinna–Tartu maanteel uut kiiruskaamerat",
+              "url": "http://www.mnt.ee/uudised/eurosec-ou-testib-tallinna-tartu-maanteel-uut-kiiruskaamerat",
+              "published_at": ""
+            },
+            {
+              "title": "Tallinna teenindusbüroos algavad kaks kuud kestvad ehitustööd",
+              "url": "http://www.mnt.ee/uudised/tallinna-teenindusburoos-algavad-kaks-kuud-kestvad-ehitustood",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "http://www.mnt.ee/pressiteated",
+          "route_type": "press_releases",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 80,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "EL-i sanktsioonimeetmed",
+              "url": "http://www.mnt.ee/uudised/el-i-sanktsioonimeetmed-seoses-venemaa-tegevusega",
+              "published_at": ""
+            },
+            {
+              "title": "Transpordiamet koostöös Kaitseliiduga varistab Virtsu tuletorni",
+              "url": "http://www.mnt.ee/uudised/transpordiamet-koostoos-kaitseliiduga-varistab-virtsu-tuletorni",
+              "published_at": ""
+            },
+            {
+              "title": "Eurosec OÜ testib Tallinna–Tartu maanteel uut kiiruskaamerat",
+              "url": "http://www.mnt.ee/uudised/eurosec-ou-testib-tallinna-tartu-maanteel-uut-kiiruskaamerat",
+              "published_at": ""
+            },
+            {
+              "title": "Tallinna teenindusbüroos algavad kaks kuud kestvad ehitustööd",
+              "url": "http://www.mnt.ee/uudised/tallinna-teenindusburoos-algavad-kaks-kuud-kestvad-ehitustood",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "http://www.mnt.ee/et/pressiteated",
+          "route_type": "press_releases",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 80,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "EL-i sanktsioonimeetmed",
+              "url": "http://www.mnt.ee/uudised/el-i-sanktsioonimeetmed-seoses-venemaa-tegevusega",
+              "published_at": ""
+            },
+            {
+              "title": "Transpordiamet koostöös Kaitseliiduga varistab Virtsu tuletorni",
+              "url": "http://www.mnt.ee/uudised/transpordiamet-koostoos-kaitseliiduga-varistab-virtsu-tuletorni",
+              "published_at": ""
+            },
+            {
+              "title": "Eurosec OÜ testib Tallinna–Tartu maanteel uut kiiruskaamerat",
+              "url": "http://www.mnt.ee/uudised/eurosec-ou-testib-tallinna-tartu-maanteel-uut-kiiruskaamerat",
+              "published_at": ""
+            },
+            {
+              "title": "Tallinna teenindusbüroos algavad kaks kuud kestvad ehitustööd",
+              "url": "http://www.mnt.ee/uudised/tallinna-teenindusburoos-algavad-kaks-kuud-kestvad-ehitustood",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "http://www.mnt.ee/news",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 80,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "EL-i sanktsioonimeetmed",
+              "url": "http://www.mnt.ee/uudised/el-i-sanktsioonimeetmed-seoses-venemaa-tegevusega",
+              "published_at": ""
+            },
+            {
+              "title": "Transpordiamet koostöös Kaitseliiduga varistab Virtsu tuletorni",
+              "url": "http://www.mnt.ee/uudised/transpordiamet-koostoos-kaitseliiduga-varistab-virtsu-tuletorni",
+              "published_at": ""
+            },
+            {
+              "title": "Eurosec OÜ testib Tallinna–Tartu maanteel uut kiiruskaamerat",
+              "url": "http://www.mnt.ee/uudised/eurosec-ou-testib-tallinna-tartu-maanteel-uut-kiiruskaamerat",
+              "published_at": ""
+            },
+            {
+              "title": "Tallinna teenindusbüroos algavad kaks kuud kestvad ehitustööd",
+              "url": "http://www.mnt.ee/uudised/tallinna-teenindusburoos-algavad-kaks-kuud-kestvad-ehitustood",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "http://www.mnt.ee/press",
+          "route_type": "press_releases",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 80,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "EL-i sanktsioonimeetmed",
+              "url": "http://www.mnt.ee/uudised/el-i-sanktsioonimeetmed-seoses-venemaa-tegevusega",
+              "published_at": ""
+            },
+            {
+              "title": "Transpordiamet koostöös Kaitseliiduga varistab Virtsu tuletorni",
+              "url": "http://www.mnt.ee/uudised/transpordiamet-koostoos-kaitseliiduga-varistab-virtsu-tuletorni",
+              "published_at": ""
+            },
+            {
+              "title": "Eurosec OÜ testib Tallinna–Tartu maanteel uut kiiruskaamerat",
+              "url": "http://www.mnt.ee/uudised/eurosec-ou-testib-tallinna-tartu-maanteel-uut-kiiruskaamerat",
+              "published_at": ""
+            },
+            {
+              "title": "Tallinna teenindusbüroos algavad kaks kuud kestvad ehitustööd",
+              "url": "http://www.mnt.ee/uudised/tallinna-teenindusburoos-algavad-kaks-kuud-kestvad-ehitustood",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "http://www.mnt.ee/teadaanded",
+          "route_type": "public_notices",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 80,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "EL-i sanktsioonimeetmed",
+              "url": "http://www.mnt.ee/uudised/el-i-sanktsioonimeetmed-seoses-venemaa-tegevusega",
+              "published_at": ""
+            },
+            {
+              "title": "Transpordiamet koostöös Kaitseliiduga varistab Virtsu tuletorni",
+              "url": "http://www.mnt.ee/uudised/transpordiamet-koostoos-kaitseliiduga-varistab-virtsu-tuletorni",
+              "published_at": ""
+            },
+            {
+              "title": "Eurosec OÜ testib Tallinna–Tartu maanteel uut kiiruskaamerat",
+              "url": "http://www.mnt.ee/uudised/eurosec-ou-testib-tallinna-tartu-maanteel-uut-kiiruskaamerat",
+              "published_at": ""
+            },
+            {
+              "title": "Tallinna teenindusbüroos algavad kaks kuud kestvad ehitustööd",
+              "url": "http://www.mnt.ee/uudised/tallinna-teenindusburoos-algavad-kaks-kuud-kestvad-ehitustood",
+              "published_at": ""
+            }
+          ]
+        },
+        {
+          "url": "http://www.mnt.ee/aktuaalne",
+          "route_type": "news",
+          "access_method": "html",
+          "http_status": 200,
+          "quality_score": 80,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "EL-i sanktsioonimeetmed",
+              "url": "http://www.mnt.ee/uudised/el-i-sanktsioonimeetmed-seoses-venemaa-tegevusega",
+              "published_at": ""
+            },
+            {
+              "title": "Transpordiamet koostöös Kaitseliiduga varistab Virtsu tuletorni",
+              "url": "http://www.mnt.ee/uudised/transpordiamet-koostoos-kaitseliiduga-varistab-virtsu-tuletorni",
+              "published_at": ""
+            },
+            {
+              "title": "Eurosec OÜ testib Tallinna–Tartu maanteel uut kiiruskaamerat",
+              "url": "http://www.mnt.ee/uudised/eurosec-ou-testib-tallinna-tartu-maanteel-uut-kiiruskaamerat",
+              "published_at": ""
+            },
+            {
+              "title": "Tallinna teenindusbüroos algavad kaks kuud kestvad ehitustööd",
+              "url": "http://www.mnt.ee/uudised/tallinna-teenindusburoos-algavad-kaks-kuud-kestvad-ehitustood",
+              "published_at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization": {
+        "name": "RIHA system",
+        "registry_code": null,
+        "type": "riha_system",
+        "parent": "RIHA system",
+        "discovered_from": ["riha"]
+      },
+      "confidence": 0.5,
+      "website": "http://www.webware.ee",
+      "domain": "webware.ee",
+      "articles_news_routes": [
+        {
+          "url": "https://webware.ee/feed",
+          "route_type": "rss",
+          "access_method": "rss",
+          "http_status": 200,
+          "quality_score": 95,
+          "title": "feed declaration",
+          "latest_items": [
+            {
+              "title": "Infohalduse konverents: tehisaru muudab head protsessid paremaks, kuid halvad veelgi halvemaks",
+              "url": "https://webware.ee/infohalduse-konverents-tehisaru-muudab-head-protsessid-paremaks-kuid-halvad-veelgi-halvemaks/",
+              "published_at": "Thu, 07 May 2026 09:22:57 +0000"
+            },
+            {
+              "title": "Otsime oma tiimi Võtmekliendijuhti",
+              "url": "https://webware.ee/otsime-votmekliendijuhti/",
+              "published_at": "Mon, 06 Apr 2026 06:40:01 +0000"
+            },
+            {
+              "title": "Infohalduse konsultant, ootame Sind tiimi",
+              "url": "https://webware.ee/otsime-tiimi-infohalduse-konsultanti/",
+              "published_at": "Wed, 01 Apr 2026 10:55:56 +0000"
+            },
+            {
+              "title": "Digitaalne transformatsioon Ida-Aafrikas",
+              "url": "https://webware.ee/digital-transformation-in-east-africa/",
+              "published_at": "Fri, 16 May 2025 12:54:21 +0000"
+            },
+            {
+              "title": "Olulisemad muudatused WebDesktopi platvormil",
+              "url": "https://webware.ee/olulisemad-muudatused-webdesktopi-platvormil/",
+              "published_at": "Tue, 04 Jul 2023 12:44:40 +0000"
+            },
+            {
+              "title": "EKIS migreerimine Kaustikuks 2024 aastal",
+              "url": "https://webware.ee/ekis-migreerimine-kaustikuks/",
+              "published_at": "Thu, 29 Jun 2023 13:00:07 +0000"
+            },
+            {
+              "title": "Webware arengud ja WebDesktop 6 lansseerimine",
+              "url": "https://webware.ee/webware-arengud-ja-webdesktop-6-lansseerimine/",
+              "published_at": "Wed, 31 May 2023 12:21:07 +0000"
+            }
+          ]
+        },
+        {
+          "url": "http://www.webware.ee/feed",
+          "route_type": "rss",
+          "access_method": "rss",
+          "http_status": 200,
+          "quality_score": 85,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "Infohalduse konverents: tehisaru muudab head protsessid paremaks, kuid halvad veelgi halvemaks",
+              "url": "https://webware.ee/infohalduse-konverents-tehisaru-muudab-head-protsessid-paremaks-kuid-halvad-veelgi-halvemaks/",
+              "published_at": "Thu, 07 May 2026 09:22:57 +0000"
+            },
+            {
+              "title": "Otsime oma tiimi Võtmekliendijuhti",
+              "url": "https://webware.ee/otsime-votmekliendijuhti/",
+              "published_at": "Mon, 06 Apr 2026 06:40:01 +0000"
+            },
+            {
+              "title": "Infohalduse konsultant, ootame Sind tiimi",
+              "url": "https://webware.ee/otsime-tiimi-infohalduse-konsultanti/",
+              "published_at": "Wed, 01 Apr 2026 10:55:56 +0000"
+            },
+            {
+              "title": "Digitaalne transformatsioon Ida-Aafrikas",
+              "url": "https://webware.ee/digital-transformation-in-east-africa/",
+              "published_at": "Fri, 16 May 2025 12:54:21 +0000"
+            },
+            {
+              "title": "Olulisemad muudatused WebDesktopi platvormil",
+              "url": "https://webware.ee/olulisemad-muudatused-webdesktopi-platvormil/",
+              "published_at": "Tue, 04 Jul 2023 12:44:40 +0000"
+            },
+            {
+              "title": "EKIS migreerimine Kaustikuks 2024 aastal",
+              "url": "https://webware.ee/ekis-migreerimine-kaustikuks/",
+              "published_at": "Thu, 29 Jun 2023 13:00:07 +0000"
+            },
+            {
+              "title": "Webware arengud ja WebDesktop 6 lansseerimine",
+              "url": "https://webware.ee/webware-arengud-ja-webdesktop-6-lansseerimine/",
+              "published_at": "Wed, 31 May 2023 12:21:07 +0000"
+            }
+          ]
+        },
+        {
+          "url": "http://www.webware.ee/rss",
+          "route_type": "rss",
+          "access_method": "rss",
+          "http_status": 200,
+          "quality_score": 85,
+          "title": "known path",
+          "latest_items": [
+            {
+              "title": "Infohalduse konverents: tehisaru muudab head protsessid paremaks, kuid halvad veelgi halvemaks",
+              "url": "https://webware.ee/infohalduse-konverents-tehisaru-muudab-head-protsessid-paremaks-kuid-halvad-veelgi-halvemaks/",
+              "published_at": "Thu, 07 May 2026 09:22:57 +0000"
+            },
+            {
+              "title": "Otsime oma tiimi Võtmekliendijuhti",
+              "url": "https://webware.ee/otsime-votmekliendijuhti/",
+              "published_at": "Mon, 06 Apr 2026 06:40:01 +0000"
+            },
+            {
+              "title": "Infohalduse konsultant, ootame Sind tiimi",
+              "url": "https://webware.ee/otsime-tiimi-infohalduse-konsultanti/",
+              "published_at": "Wed, 01 Apr 2026 10:55:56 +0000"
+            },
+            {
+              "title": "Digitaalne transformatsioon Ida-Aafrikas",
+              "url": "https://webware.ee/digital-transformation-in-east-africa/",
+              "published_at": "Fri, 16 May 2025 12:54:21 +0000"
+            },
+            {
+              "title": "Olulisemad muudatused WebDesktopi platvormil",
+              "url": "https://webware.ee/olulisemad-muudatused-webdesktopi-platvormil/",
+              "published_at": "Tue, 04 Jul 2023 12:44:40 +0000"
+            },
+            {
+              "title": "EKIS migreerimine Kaustikuks 2024 aastal",
+              "url": "https://webware.ee/ekis-migreerimine-kaustikuks/",
+              "published_at": "Thu, 29 Jun 2023 13:00:07 +0000"
+            },
+            {
+              "title": "Webware arengud ja WebDesktop 6 lansseerimine",
+              "url": "https://webware.ee/webware-arengud-ja-webdesktop-6-lansseerimine/",
+              "published_at": "Wed, 31 May 2023 12:21:07 +0000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
