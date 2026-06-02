@@ -1,0 +1,80 @@
+{
+  "summary": {
+    "urls_input": "../extracting-urls/news_urls.json",
+    "total_urls": 5,
+    "successful_extractions": 5,
+    "failed_extractions": 0,
+    "success_rate_percent": 100,
+    "failure_rate_percent": 0,
+    "successes_by_method": {
+      "deterministic_site_family_selectors": 5
+    },
+    "successes_by_source_domain": {
+      "fin.ee": 4,
+      "valitsus.ee": 1
+    }
+  },
+  "successes": [
+    {
+      "url": "https://www.valitsus.ee/uudised/peaministrikandidaadi-kristen-michali-kone-valitsuse-moodustamise-kohta",
+      "source_domain": "valitsus.ee",
+      "title": "Peaministrikandidaadi Kristen Michali kõne valitsuse moodustamise kohta",
+      "extraction_method": "deterministic_site_family_selectors",
+      "extraction_confidence": "high",
+      "content_length_chars": 15522,
+      "paragraph_count": 93,
+      "fallback_chain": [
+        "deterministic_site_family_selectors:success"
+      ]
+    },
+    {
+      "url": "https://fin.ee/uudised/riigihangete-maht-uletas-2025-aastal-kaheksa-miljardi-euro-piiri",
+      "source_domain": "fin.ee",
+      "title": "Riigihangete maht ületas 2025. aastal kaheksa miljardi euro piiri",
+      "extraction_method": "deterministic_site_family_selectors",
+      "extraction_confidence": "high",
+      "content_length_chars": 2056,
+      "paragraph_count": 6,
+      "fallback_chain": [
+        "deterministic_site_family_selectors:success"
+      ]
+    },
+    {
+      "url": "https://www.fin.ee/uudised/vaidlustuste-arv-riigihangetes-kasvas-2025-aastal-16",
+      "source_domain": "fin.ee",
+      "title": "Vaidlustuste arv riigihangetes kasvas 2025. aastal 16%",
+      "extraction_method": "deterministic_site_family_selectors",
+      "extraction_confidence": "high",
+      "content_length_chars": 1948,
+      "paragraph_count": 6,
+      "fallback_chain": [
+        "deterministic_site_family_selectors:success"
+      ]
+    },
+    {
+      "url": "https://fin.ee/uudised/uued-reeglid-aitavad-aega-ja-raha-kokku-hoida-nii-hankijatel-kui-ettevotjatel",
+      "source_domain": "fin.ee",
+      "title": "Uued reeglid aitavad aega ja raha kokku hoida nii hankijatel kui ettevõtjatel",
+      "extraction_method": "deterministic_site_family_selectors",
+      "extraction_confidence": "high",
+      "content_length_chars": 2266,
+      "paragraph_count": 7,
+      "fallback_chain": [
+        "deterministic_site_family_selectors:success"
+      ]
+    },
+    {
+      "url": "https://fin.ee/uudised/odavaim-hind-ei-ole-enam-ainus-eesmark-riigihangete-suunad-muutumas",
+      "source_domain": "fin.ee",
+      "title": "Odavaim hind ei ole enam ainus eesmärk - riigihangete suunad on muutumas",
+      "extraction_method": "deterministic_site_family_selectors",
+      "extraction_confidence": "high",
+      "content_length_chars": 2104,
+      "paragraph_count": 7,
+      "fallback_chain": [
+        "deterministic_site_family_selectors:success"
+      ]
+    }
+  ],
+  "errors": []
+}

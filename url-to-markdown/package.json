@@ -1,0 +1,50 @@
+{
+  "name": "@testing-news-site/url-to-markdown",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Node/TypeScript URL-to-markdown extractor for discovered news URLs.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./urls": {
+      "types": "./dist/urls.d.ts",
+      "import": "./dist/urls.js"
+    }
+  },
+  "bin": {
+    "url-to-markdown": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "check": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run",
+    "dev": "tsx src/cli.ts",
+    "convert": "tsx src/cli.ts --input ../extracting-urls/news_urls.json --output-dir ../output/markdowns --articles-output ../output/articles.json --errors-output ../output/errors.json --report ../output/extraction_audit.json",
+    "convert:sample": "tsx src/cli.ts --input ../extracting-urls/news_urls.json --output-dir ../output/markdowns --articles-output ../output/articles.json --errors-output ../output/errors.json --report ../output/extraction_audit.json --limit 5",
+    "audit": "tsx src/cli.ts --input ../extracting-urls/news_urls.json --report ../output/extraction_audit.json",
+    "audit:sample": "tsx src/cli.ts --input ../extracting-urls/news_urls.json --report ../output/extraction_audit.json --limit 5"
+  },
+  "dependencies": {
+    "@extractus/article-extractor": "8.1.0",
+    "@mozilla/readability": "0.6.0",
+    "chardet": "2.1.1",
+    "fast-xml-parser": "5.8.0",
+    "iconv-lite": "0.7.2",
+    "jsdom": "29.1.1",
+    "turndown": "7.2.4",
+    "turndown-plugin-gfm": "1.0.2"
+  },
+  "devDependencies": {
+    "@types/jsdom": "28.0.3",
+    "@types/node": "25.9.1",
+    "@types/turndown": "5.0.6",
+    "tsx": "4.22.4",
+    "typescript": "6.0.3",
+    "vitest": "4.1.8"
+  }
+}
